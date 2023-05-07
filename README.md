@@ -1,2 +1,2 @@
-# INOV-Arduino-Slip-Warning-Device
-Arduino Prototype for Building Safety and Warning Device
+# Building Safety and Proximity Warning Device
+- Arduino

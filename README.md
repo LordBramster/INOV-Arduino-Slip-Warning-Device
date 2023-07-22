@@ -17,9 +17,8 @@ stakeholders understand how the device works.
 - Providing a detailed document including prototype specifications, parts
 used, and setup instructions utilizing similar inexpensive materials.
 
-## Overview
-A trigger upon detection of motion through a PIR sensor, which transmits an visual/audible alert. `PIR_sensor_test.ino` validates successful operation of the PIR sensor.
+## Wiring Schematics
+A trigger upon detection of motion through a PIR sensor, which transmits an visual/audible alert. The file `PIR_sensor_test.ino` validates successful operation of the PIR sensor.
 
-## Wiring Schematic
-<img width="35%" src="schematic_01.JPG">
-
+<img width="45%" src="schematic_02.JPG">
+<img width="45%" src="schematic_01.JPG">

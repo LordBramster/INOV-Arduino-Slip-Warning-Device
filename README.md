@@ -1,6 +1,6 @@
 <img width="55%" src="arduino_banner.png">
 
-# Building-Safety/Warning-Device Prototype using Arduino
+# Arduino Building-Safety Prototype
 Established project goals:
 1. *Design an Arduino prototype demonstrating working sensors and code;*
 2. *design a CAD model of the Shell/device housing that could be 3D printed by the manufacturer.*
